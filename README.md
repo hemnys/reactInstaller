@@ -1,6 +1,6 @@
 # react Installer
 
-Tomando como referencia las buenas practicas de nuestro amigo Oscar Barajas [@gndx](https://twitter.com/gndx), he creado un script en Bash para GNU/Linux, para automatizar la instalación de React, donde además encontrarás lo siguiente:
+Tomando como referencia las buenas practicas de nuestro amigo Oscar Barajas [@gndx](https://twitter.com/gndx), he creado un script en Bash para GNU/Linux, automatizando la instalación de React, donde además encontrarás lo siguiente:
 
 - git
 - Babel
